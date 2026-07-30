@@ -12,7 +12,7 @@ The dataset is provided by the competition sponsor (Gilead Sciences) via Kaggle:
 
 ## Exploratory Data Analysis
 
-Before modeling, we explored the dataset across three feature groups **demographic** (age, race, geography, insurance type), **diagnostic** (cancer codes, diagnosis descriptions), and **treatment** (first treatment type and timing). Key findings, visualized in an accompanying dashboard (`dashboard.png`):
+Before modeling, we explored the dataset across three feature groups **demographic** (age, race, geography, insurance type), **diagnostic** (cancer codes, diagnosis descriptions), and **treatment** (first treatment type and timing). Key findings, visualized in an accompanying dashboard:
 
 - The median treatment delay dropped sharply for patients diagnosed in 2016 onward compared to 2015, then declined gradually.
 - Insurance/payer type showed a clear relationship with speed of care. Medicare Advantage patients had the longest median delays, Commercial the shortest.
